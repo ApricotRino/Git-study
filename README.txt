@@ -4,9 +4,9 @@
 // 学习git记录
 git add  .
 添加所有文件到暂存区
-git commit -m
+git commit -m ""
 提交暂存区的内容到本地仓库
-git push origin master ""
+git push origin master 
 提交本地仓库master分支的内容到远程仓库
 git status
 查询文件状态

@@ -2,6 +2,9 @@
 
 
 // 学习git记录
+12.6 修改过的文件add后忘记commit到本地仓库 push不到远程仓库
+
+//git命令
 git add  .
 添加所有文件到暂存区
 git commit -m ""
